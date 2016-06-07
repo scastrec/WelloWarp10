@@ -1,0 +1,15 @@
+//dernier élément pile positif? 
+
+// déclare la macro
+<% 0 >= %> 'IS_POS' STORE //condition
+
+//chiffre à tester
+42 
+
+$IS_POS
+
+//element envoyé au if ok
+<% 'positif' %>
+//element envoyé au if nok
+<% 'negatif' %>
+IFTE 

@@ -1,0 +1,11 @@
+//Script macro
+<%
+'a' STORE
+'b' STORE
+$a ABS
+$b ABS
+MAX
+%>
+'MAX_ABS' STORE
+
+-4 -5 @MAX_ABS

@@ -1,0 +1,18 @@
+'dTjU8eNb5KOSfWilepRgT2Nqc87FcDSsRjSPjgS4seNKNLibGTGzXmwKuIra3leCQ1mhbE3Ke5kAiOaGlPiNPjzurfvRVXrEDokQeRd4XH4BK26s3C6aqXnf_LU8GuXLbUSF_4lmBY7yPiF2jr7cSxCgkoerxMtEq8lO5o5rYv3'
+
+'token' STORE
+
+[] 'result' STORE 
+
+
+$token
+'data.fuel.france'
+{
+    'type'
+    'gazole'
+    'cp'
+    '~29.*'
+}
+'2015-01-01T00:00:00.000Z' TOTIMESTAMP
+'2016-01-01T00:00:00.000Z' TOTIMESTAMP
+FETCH
